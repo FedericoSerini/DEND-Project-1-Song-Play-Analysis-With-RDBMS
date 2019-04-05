@@ -7,6 +7,7 @@
 * [Example queries](#Example-queries)
 --------------------------------------------
 
+
 #### Schema definition
 This is the schema of the database
 

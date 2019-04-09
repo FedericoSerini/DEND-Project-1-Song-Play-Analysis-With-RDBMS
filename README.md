@@ -34,7 +34,7 @@ it contains foreign keys to four tables;
 
 #### How to run
 First of all, you need a PostgreSQL instance up and running <br>
-Here you can find the [Binary packages](https://www.postgresql.org/download/) for you preferred operation system  <br>
+Here you can find the [Binary packages](https://www.postgresql.org/download/) for you preferred operating system  <br>
 After downloaded the package, If you do not know to move on just follow this [Tutorial](http://www.postgresqltutorial.com/) <br>
 
 And of course [Python](https://www.python.org/downloads/) <br>
